@@ -6,10 +6,10 @@ from core import constants
 # from core import output_processor
 from core import llm_helper
 
-st.title('✒️ AuthorTrace')
+st.title('✒️ Signature Writing style')
 
 st.markdown('''
-    _Find the fingerprints behind the words._ Extract signature keywords from a writer’s style — :rainbow[slang, quirks, niche phrases] — to help you trace their work across the web.
+    Extract signature keywords from a writer’s style — :rainbow[slang, quirks, niche phrases] — to help you trace their work across the web.
             
     ''')
 
