@@ -1,0 +1,10 @@
+streamlit
+streamlit-authenticator
+openai
+pandas
+numpy
+matplotlib
+opencv-python
+Pillow
+pdf2image
+tiktoken

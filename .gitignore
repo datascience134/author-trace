@@ -1,0 +1,9 @@
+.streamlit/secrets.toml
+.streamlit_cache/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+demo/
+test_data/
+poppler-25.07.0/
